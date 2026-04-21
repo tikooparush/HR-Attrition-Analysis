@@ -75,7 +75,6 @@ HR-Attrition-Analysis/
 
 [Click here to view full analysis](https://www.kaggle.com/code/parushtikoo/hr-attrition-analysis-python-pandas))
 
----
 
 ## 💡 Conclusion
 
@@ -85,13 +84,6 @@ This analysis highlights that **overtime, salary, department, and age** are key 
 * Optimize compensation strategies
 * Focus on high-risk departments
 * Retain younger talent
-
-
-## 🚀 Future Improvements
-
-* Build a **predictive model (ML)** for attrition
-* Create an **interactive dashboard (Power BI / Tableau)**
-* Perform deeper feature engineering
 
 
 ## 👤 Author
