@@ -3,3 +3,9 @@ End-to-end data analysis project leveraging Python, Pandas, SQL, and Excel to de
 
 ## 🔗 Kaggle Notebook
 [Click here to view full analysis](https://www.kaggle.com/code/parushtikoo/hr-attrition-analysis-python-pandas))
+
+## 📊 Tools Used
+- Python (Pandas)
+- SQL
+- Microsoft Excel
+- Kaggle Notebook
